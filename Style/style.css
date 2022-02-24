@@ -41,32 +41,32 @@
 .logo-icons {
   display: flex;
 }
-.img1{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    background-color: #FFFFFF;
-    display: flex;
-    justify-content: center;
+.img1 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
 }
-img{
-    width: 26px;
+img {
+  width: 26px;
 }
-.img2{
-    width: 70px;
-    height: 70px;
-    border-radius: 50%;
-    background-color: #FFFFFF;
-    display: flex;
-    justify-content: center;
+.img2 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
 }
-.call{
-    display: flex;
-    flex-direction: row;
+.call {
+  display: flex;
+  flex-direction: row;
 }
-.mail{
-    display: flex;
+.mail {
+  display: flex;
 }
-.logo-icons{
-    margin-top: 92px;
+.logo-icons {
+  margin-top: 92px;
 }
